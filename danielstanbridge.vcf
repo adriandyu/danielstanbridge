@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 N:Daniel Stanbridge ;;;;
 FN:Daniel Stanbridge 
-ORG:
+ORG:Paysafe Group
 TITLE:SVP Merchant Risk
 TEL;TYPE=work,pref:
 TEL;TYPE=work:
-EMAIL;TYPE=work:
-URL:
+EMAIL;TYPE=work:daniel.stanbridge@paysafe.com
+URL:https://uk.linkedin.com/in/dan-stanbridge-a4944549
 KEY:OPENPGP4FPR:
 UID:enbizcard-807439
 END:VCARD
